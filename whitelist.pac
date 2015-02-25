@@ -56,6 +56,12 @@ var RULES = [
     ],
     //custom-list
     [
+				".phncdn.com",
+				".pornhub.com",
+				".gfycat.com",
+				".reddit.com",
+				".qingcloud.com",
+				".ikea.com",
 				".infoq.com",
         ".zoopda.com",
         ".yixun.com",
@@ -742,7 +748,7 @@ var RULES = [
         ".weiphone.com",
         ".west263.com",
         ".whlongda.com",
-        ".wikipedia.org",
+        //".wikipedia.org",
         ".williamlong.info",
         ".woniu.com",
         ".wordpress.org",
